@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">almacenamientoSD</string>
+    <string name="nameFile">Nombre del Archivo</string>
+    <string name="save">Guardar</string>
+    <string name="load">Cargar</string>
+    <string name="your_Data">Sus datos</string>
+</resources>
